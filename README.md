@@ -21,6 +21,7 @@ Deliverable 4: Create the Movie Database
 ## Results
 From the Deliverable 4: We confirm that the movies table has ***6,052 rows*** and the ratings table has ***26,024,289 rows***.
 Below query codes are used to retrieve the data from movie_data Database from pgAdmin:
+
 `
 SELECT COUNT(*)
 FROM movies;`
