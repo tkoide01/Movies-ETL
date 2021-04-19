@@ -27,12 +27,12 @@ SELECT COUNT(*)
 FROM movies;`
 
 *** Movie table Row Count Screen Shot***
-      ![](Data/count_movies.png)
+   ![](Data/count_movies.png)
       
-`
+```
 SELECT COUNT( *) as "Number of Rows"
-FROM ratings;`
-
+FROM ratings;
+```
 *** Rating table Row Count Screen Shot***
 
-      ![](Data/count_ratings.png)
+   ![](Data/count_ratings.png)
