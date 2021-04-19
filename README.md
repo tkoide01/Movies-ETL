@@ -19,7 +19,7 @@ Deliverable 4: Create the Movie Database
 - Software: Jupytor Notebook, Postgres, pdAdmin 4
 
 ## Results
-From the Deliverable 4: We confirm that the movies table has ***6,052 rows*** and the ratings table has ***26,024,289 rows***.
+From the Deliverable 4: We confirm that the movies table has ***6,077 rows*** and the ratings table has ***28,024,289 rows***.
 Below query codes are used to retrieve the data from movie_data Database from pgAdmin:
 
 `
